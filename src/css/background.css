@@ -1,0 +1,6 @@
+.bg-main {
+    background-image: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+}
+.bg-footer {
+    background-image: linear-gradient(to right, #1d4350, #a43931);
+}
